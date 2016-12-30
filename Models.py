@@ -2,7 +2,7 @@ import logging
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, Float, String, ForeignKey, Table
 from sqlalchemy.orm import relationship
-
+asd
 log = logging.getLogger(__name__)
 
 Base = declarative_base()
